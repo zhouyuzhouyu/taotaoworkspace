@@ -28,3 +28,5 @@
 
 ### Eclipse IDE ###
 .setting
+.classpath
+.project
