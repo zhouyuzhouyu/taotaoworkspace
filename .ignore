@@ -9,6 +9,7 @@
 
 # Compiled class file
 *.class
+/target/
 
 # Log file
 *.log
@@ -27,6 +28,6 @@
 
 
 ### Eclipse IDE ###
-.setting
+.settings
 .classpath
 .project
